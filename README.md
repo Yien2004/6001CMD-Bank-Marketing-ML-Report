@@ -1,9 +1,15 @@
 6001CMD - Machine Learning Coursework
+
 Reproducible Preprocessing Pipeline & Technical Report
+
 Student Name: Tan Yien Win
+
 Student ID: 16929821
+
 Institution: INTI International College Penang 
+
 Lecturer: Vasuky Mohanan
+
 Semester: August 2026
 
 1. Project Overview
